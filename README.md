@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 # UNTITLED
 
 UNTITLED는 "제목없음"이라는 뜻으로써,\
